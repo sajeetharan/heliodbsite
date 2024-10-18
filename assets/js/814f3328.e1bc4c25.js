@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheliodb=self.webpackChunkheliodb||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/heliodbsite/blog/welcome","unlisted":false,"date":"2024-08-26T00:00:00.000Z"}]}')}}]);
