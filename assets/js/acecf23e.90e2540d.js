@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheliodb=self.webpackChunkheliodb||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/heliodbsite/blog","blogTitle":"Blog","authorsListPath":"/heliodbsite/blog/authors"}')}}]);
